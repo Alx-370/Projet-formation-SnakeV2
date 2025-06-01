@@ -32,3 +32,17 @@ Difficile (avec murs, 1 vie)
 -Mur ON/OFF : Le joueur peut activer ou désactiver les collisions avec les bords selon la difficulté choisie.
 
 -Affichage HUD : Score, niveau, et nombre de vies affichés en direct.
+
+<br>
+<br>
+
+
+ Envie d'essayer? https://alx-370.github.io/Projet-formation-PokedexV1/
+
+## 🛠️Compérences :
+
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/Javascript-blue?logo=javascript&logoColor=white)
+
