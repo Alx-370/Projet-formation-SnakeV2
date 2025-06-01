@@ -37,7 +37,7 @@ Difficile (avec murs, 1 vie)
 <br>
 
 
- Envie d'essayer? https://alx-370.github.io/Projet-formation-PokedexV1/
+ Envie d'essayer? https://alx-370.github.io/Projet-formation-SnakeV2/
 
 ## 🛠️Compérences :
 
